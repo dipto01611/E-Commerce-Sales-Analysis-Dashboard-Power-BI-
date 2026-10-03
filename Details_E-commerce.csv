@@ -1,0 +1,1501 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-25681,1534,921,7,Electronics,Electronic Games,COD
+B-26055,8021,90,14,Furniture,Chairs,EMI
+B-25955,4098,204,8,Furniture,Bookcases,EMI
+B-26093,3986,997,8,Electronics,Printers,Credit Card
+B-25602,3664,1611,4,Electronics,Phones,Credit Card
+B-25881,3142,346,4,Clothing,Trousers,Credit Card
+B-25696,385,-385,4,Clothing,Saree,COD
+B-25687,542,-298,5,Clothing,Saree,Rocket
+B-25643,70,-62,2,Clothing,Handkerchief,Nagad
+B-25851,189,-76,5,Clothing,Three-Piece,COD
+B-25703,323,-266,9,Clothing,Handkerchief,COD
+B-25887,2975,-328,6,Electronics,Printers,EMI
+B-25923,5422,-1247,6,Electronics,Phones,Credit Card
+B-25756,1021,-689,5,Furniture,Bookcases,bKash
+B-25761,3063,1470,5,Furniture,Bookcases,Credit Card
+B-25655,8,-4,1,Clothing,Handkerchief,bKash
+B-25786,2596,606,5,Furniture,Bookcases,Credit Card
+B-26095,8,1,1,Clothing,Three-Piece,Nagad
+B-25853,2930,1009,5,Furniture,Chairs,Credit Card
+B-25735,10,-1,2,Clothing,Panjabi,Nagad
+B-25910,2271,-874,5,Furniture,Tables,Credit Card
+B-25950,2271,133,5,Electronics,Printers,Credit Card
+B-25744,522,356,6,Electronics,Printers,bKash
+B-25845,115,-46,4,Clothing,Three-Piece,COD
+B-26001,11,3,2,Clothing,Panjabi,Nagad
+B-25830,2736,1095,3,Electronics,Phones,Credit Card
+B-25842,2160,518,8,Electronics,Printers,Credit Card
+B-25778,2108,-372,6,Electronics,Printers,Credit Card
+B-25686,2561,-78,6,Furniture,Tables,Credit Card
+B-25754,13,-1,3,Clothing,Panjabi,Nagad
+B-26048,2045,283,5,Furniture,Tables,EMI
+B-25816,547,158,8,Clothing,Orna,COD
+B-26022,2554,1824,8,Electronics,Phones,Credit Card
+B-25883,22,-21,4,Clothing,Handkerchief,bKash
+B-26003,2443,171,2,Furniture,Tables,Credit Card
+B-26097,928,-297,5,Electronics,Printers,Nagad
+B-25710,14,-1,1,Clothing,Leggings,bKash
+B-25797,2282,1123,5,Furniture,Tables,EMI
+B-25618,17,0,2,Clothing,Handkerchief,bKash
+B-25723,17,-10,2,Clothing,Leggings,bKash
+B-25755,2393,790,3,Clothing,Trousers,Credit Card
+B-25788,17,4,1,Clothing,Orna,bKash
+B-25681,2275,-108,3,Electronics,Phones,EMI
+B-25991,18,7,2,Clothing,Handkerchief,bKash
+B-25779,1905,1372,3,Furniture,Tables,COD
+B-25909,2271,-627,3,Electronics,Phones,EMI
+B-25943,2166,476,6,Electronics,Accessories,EMI
+B-25935,2320,644,4,Furniture,Chairs,Credit Card
+B-25613,2244,0,9,Clothing,Saree,Credit Card
+B-25729,2169,-615,4,Electronics,Phones,Credit Card
+B-25772,1656,148,4,Electronics,Printers,EMI
+B-25655,104,-172,8,Clothing,Panjabi,Nagad
+B-25640,2099,335,13,Clothing,Saree,Credit Card
+B-25810,1568,279,6,Clothing,Saree,EMI
+B-25801,21,-3,1,Clothing,T-shirt,Debit Card
+B-26085,2082,874,3,Clothing,Trousers,Credit Card
+B-25868,1565,288,2,Furniture,Tables,Credit Card
+B-25714,15,-7,2,Clothing,Handkerchief,COD
+B-25784,21,6,1,Clothing,Handkerchief,Debit Card
+B-25608,1910,2610,5,Furniture,Tables,Credit Card
+B-26051,1872,206,7,Electronics,Printers,Credit Card
+B-25900,21,3,1,Clothing,Leggings,Debit Card
+B-25760,451,-270,5,Electronics,Printers,bKash
+B-25762,1842,738,7,Electronics,Electronic Games,Credit Card
+B-25995,1840,479,3,Furniture,Bookcases,Credit Card
+B-25965,24,10,3,Clothing,Handkerchief,Debit Card
+B-25967,24,3,2,Clothing,Panjabi,Debit Card
+B-25674,24,-17,5,Clothing,Panjabi,Debit Card
+B-25929,1831,750,3,Furniture,Bookcases,Credit Card
+B-25777,1506,-53,4,Electronics,Printers,Credit Card
+B-26006,1821,802,5,Electronics,Accessories,Credit Card
+B-25697,1820,-22,8,Electronics,Printers,Credit Card
+B-25667,15,-3,4,Clothing,Handkerchief,COD
+B-25836,1817,91,9,Electronics,Printers,EMI
+B-25984,426,136,6,Clothing,Orna,bKash
+B-25728,1477,370,4,Electronics,Printers,EMI
+B-25757,24,-18,4,Clothing,Panjabi,Debit Card
+B-25957,206,102,3,Clothing,Orna,COD
+B-26061,1351,-95,3,Electronics,Printers,COD
+B-25735,17,-3,3,Clothing,Handkerchief,COD
+B-25616,20,-3,3,Clothing,Handkerchief,Nagad
+B-25666,1308,-1282,7,Electronics,Electronic Games,COD
+B-25675,1301,-130,9,Clothing,Saree,COD
+B-26079,25,4,2,Clothing,Handkerchief,Debit Card
+B-25850,1282,269,11,Electronics,Phones,COD
+B-25693,106,-101,9,Clothing,Handkerchief,COD
+B-25852,1217,94,4,Furniture,Tables,COD
+B-25860,157,34,3,Clothing,Three-Piece,COD
+B-25853,55,22,6,Clothing,Panjabi,Nagad
+B-25898,1200,-384,2,Furniture,Tables,COD
+B-26100,1159,322,2,Furniture,Chairs,COD
+B-25653,1791,-896,8,Electronics,Printers,EMI
+B-25839,1750,680,7,Clothing,Saree,EMI
+B-25651,1152,-25,7,Furniture,Chairs,COD
+B-25957,1620,-18,9,Furniture,Bookcases,Credit Card
+B-25704,176,-88,3,Electronics,Accessories,bKash
+B-25730,1603,-988,3,Electronics,Phones,Credit Card
+B-26052,1084,238,3,Electronics,Accessories,COD
+B-25656,34,-1,2,Clothing,Handkerchief,COD
+B-26033,1084,238,3,Electronics,Accessories,COD
+B-25850,130,-1,2,Clothing,Handkerchief,COD
+B-25945,1071,-50,3,Electronics,Electronic Games,COD
+B-26086,1067,141,6,Electronics,Printers,COD
+B-25752,1065,372,9,Electronics,Electronic Games,COD
+B-26098,134,-67,5,Clothing,Leggings,Nagad
+B-26067,1592,-20,7,Electronics,Printers,EMI
+B-25730,25,11,2,Clothing,Handkerchief,Debit Card
+B-25986,1049,-430,7,Furniture,Furnishings,COD
+B-26067,1568,279,6,Clothing,Saree,EMI
+B-25953,1042,167,6,Electronics,Printers,COD
+B-25952,20,0,4,Clothing,Handkerchief,bKash
+B-25903,27,11,2,Clothing,Handkerchief,Debit Card
+B-25650,717,-315,5,Clothing,Saree,COD
+B-25970,1039,277,2,Furniture,Bookcases,COD
+B-26062,62,-56,3,Clothing,Orna,COD
+B-25643,1485,-50,8,Furniture,Bookcases,EMI
+B-25632,27,-3,2,Clothing,Leggings,Debit Card
+B-25821,24,0,1,Clothing,Handkerchief,COD
+B-25878,1037,374,5,Furniture,Bookcases,COD
+B-25752,1029,-329,6,Electronics,Printers,COD
+B-25750,27,-1,1,Clothing,Shirt,Debit Card
+B-25657,1429,-67,4,Electronics,Electronic Games,EMI
+B-25787,778,-293,7,Clothing,Saree,COD
+B-25808,88,-24,6,Clothing,Leggings,COD
+B-25885,1028,347,2,Furniture,Chairs,COD
+B-25778,1306,232,5,Clothing,Saree,Credit Card
+B-25759,28,-13,6,Clothing,Handkerchief,Debit Card
+B-25747,1228,553,2,Furniture,Bookcases,Credit Card
+B-25878,1007,424,6,Furniture,Chairs,COD
+B-25603,17,1,2,Clothing,Handkerchief,COD
+B-25691,1000,78,4,Clothing,Saree,COD
+B-25607,70,-21,4,Clothing,Leggings,COD
+B-25708,993,-140,5,Electronics,Phones,COD
+B-26021,29,-17,3,Clothing,Handkerchief,Debit Card
+B-25831,970,356,6,Clothing,Saree,COD
+B-25850,34,1,4,Clothing,Handkerchief,COD
+B-25670,34,1,2,Clothing,Handkerchief,bKash
+B-25852,34,1,2,Clothing,Handkerchief,COD
+B-26029,29,14,1,Clothing,T-shirt,Debit Card
+B-25959,953,363,4,Furniture,Chairs,COD
+B-25676,944,-262,2,Furniture,Tables,COD
+B-26097,939,-433,5,Electronics,Electronic Games,COD
+B-25888,904,-298,3,Electronics,Electronic Games,COD
+B-25911,56,21,1,Clothing,Three-Piece,COD
+B-25662,34,-3,2,Clothing,T-shirt,COD
+B-25950,902,234,2,Electronics,Printers,COD
+B-25847,900,315,2,Electronics,Printers,COD
+B-25796,885,-442,6,Clothing,Saree,COD
+B-25693,885,442,6,Clothing,Saree,COD
+B-25993,854,291,3,Electronics,Printers,COD
+B-26052,109,-39,6,Clothing,Three-Piece,bKash
+B-25930,833,167,4,Furniture,Bookcases,COD
+B-25785,833,409,3,Clothing,Saree,COD
+B-26093,1193,71,5,Furniture,Bookcases,Credit Card
+B-26053,832,125,3,Furniture,Bookcases,COD
+B-26019,819,245,13,Clothing,T-shirt,COD
+B-26070,815,367,5,Furniture,Furnishings,COD
+B-25870,1183,118,7,Clothing,Saree,Credit Card
+B-25855,1161,27,4,Electronics,Printers,Credit Card
+B-25602,785,297,3,Clothing,Saree,COD
+B-25728,1079,-594,2,Electronics,Phones,Credit Card
+B-25803,1071,11,6,Clothing,Saree,EMI
+B-25996,43,3,2,Clothing,Handkerchief,COD
+B-26078,780,-155,2,Electronics,Electronic Games,COD
+B-25803,1060,519,2,Electronics,Printers,Credit Card
+B-25682,763,-102,11,Electronics,Phones,COD
+B-25749,1473,-115,3,Furniture,Bookcases,bKash
+B-25962,762,-213,3,Furniture,Bookcases,COD
+B-25899,31,13,2,Clothing,Leggings,Debit Card
+B-25845,1060,519,2,Electronics,Printers,Credit Card
+B-25951,1039,277,2,Furniture,Bookcases,Credit Card
+B-25828,752,150,3,Clothing,Saree,COD
+B-25803,750,127,1,Clothing,Trousers,COD
+B-25656,8,4,1,Clothing,Handkerchief,COD
+B-25681,732,286,7,Clothing,Trousers,COD
+B-25658,38,13,2,Clothing,T-shirt,bKash
+B-25698,722,549,8,Furniture,Chairs,COD
+B-25832,706,162,3,Furniture,Bookcases,COD
+B-25886,703,118,4,Electronics,Phones,COD
+B-25897,1028,298,6,Electronics,Electronic Games,Credit Card
+B-25873,59,17,2,Clothing,Three-Piece,COD
+B-25858,41,15,4,Clothing,Panjabi,COD
+B-25867,336,17,6,Clothing,Three-Piece,Nagad
+B-25633,694,-111,2,Clothing,Trousers,COD
+B-25609,679,41,4,Electronics,Electronic Games,COD
+B-25896,43,-15,3,Clothing,Panjabi,Nagad
+B-26000,946,211,3,Electronics,Printers,Credit Card
+B-25959,32,11,2,Clothing,Handkerchief,Debit Card
+B-25940,18,4,2,Clothing,Handkerchief,COD
+B-26087,252,0,8,Clothing,Orna,COD
+B-26055,939,160,9,Electronics,Phones,Credit Card
+B-25980,31,15,3,Clothing,Three-Piece,COD
+B-25653,935,-43,3,Electronics,Printers,Credit Card
+B-26052,203,0,3,Clothing,Saree,Nagad
+B-25877,34,11,2,Clothing,Panjabi,Debit Card
+B-25608,666,0,3,Furniture,Chairs,COD
+B-25897,34,15,5,Clothing,Handkerchief,Debit Card
+B-25881,52,4,3,Clothing,Handkerchief,COD
+B-25905,213,70,6,Clothing,Orna,bKash
+B-25818,45,15,2,Clothing,Leggings,bKash
+B-25835,73,15,5,Clothing,Leggings,COD
+B-26081,34,15,3,Clothing,Handkerchief,Debit Card
+B-25730,662,59,4,Furniture,Chairs,COD
+B-25837,368,70,5,Clothing,Orna,COD
+B-25893,85,15,3,Clothing,Three-Piece,COD
+B-25689,657,-643,3,Electronics,Electronic Games,COD
+B-26028,1781,766,2,Electronics,Phones,COD
+B-26081,237,0,3,Electronics,Accessories,COD
+B-25903,35,15,3,Clothing,Leggings,Debit Card
+B-25651,640,-57,4,Clothing,Saree,COD
+B-25903,637,108,8,Electronics,Accessories,COD
+B-26086,35,3,2,Clothing,Handkerchief,Debit Card
+B-25654,630,-126,3,Electronics,Printers,COD
+B-25720,42,-49,1,Furniture,Chairs,COD
+B-26057,923,-52,2,Furniture,Bookcases,Credit Card
+B-25798,627,207,2,Electronics,Printers,COD
+B-25961,624,74,3,Electronics,Printers,COD
+B-25701,137,-63,2,Furniture,Chairs,bKash
+B-26055,620,15,1,Clothing,Saree,COD
+B-25653,598,-70,7,Electronics,Phones,COD
+B-25670,918,-50,2,Furniture,Bookcases,Credit Card
+B-26056,594,225,2,Clothing,Saree,COD
+B-26061,38,11,2,Clothing,T-shirt,Debit Card
+B-25602,594,-381,5,Electronics,Phones,COD
+B-26016,283,6,4,Clothing,Handkerchief,COD
+B-25873,1785,500,2,Electronics,Phones,bKash
+B-25761,585,98,7,Electronics,Phones,COD
+B-25819,584,69,3,Electronics,Electronic Games,COD
+B-25853,279,67,4,Clothing,Orna,Nagad
+B-25662,539,-108,11,Furniture,Furnishings,bKash
+B-25993,580,279,3,Electronics,Phones,COD
+B-25703,136,-63,4,Clothing,Saree,COD
+B-25848,907,70,6,Electronics,Electronic Games,Credit Card
+B-25678,38,-35,2,Clothing,Shirt,Debit Card
+B-25925,38,17,1,Clothing,Orna,Debit Card
+B-25977,38,1,1,Clothing,Orna,bKash
+B-25797,578,-440,9,Furniture,Chairs,COD
+B-26067,74,3,4,Clothing,Handkerchief,COD
+B-25810,41,11,5,Clothing,Handkerchief,Nagad
+B-25648,42,18,1,Clothing,T-shirt,bKash
+B-25933,577,577,6,Clothing,Saree,COD
+B-25942,904,-32,2,Electronics,Printers,Credit Card
+B-25656,42,-7,5,Clothing,Orna,bKash
+B-26067,865,38,4,Furniture,Bookcases,Credit Card
+B-25673,200,-174,5,Clothing,Saree,bKash
+B-25797,43,1,2,Clothing,Handkerchief,bKash
+B-26098,573,120,3,Clothing,Saree,COD
+B-25656,568,176,2,Clothing,Saree,COD
+B-25791,791,92,7,Clothing,Saree,Credit Card
+B-26053,119,3,6,Clothing,Orna,COD
+B-25983,785,165,5,Furniture,Bookcases,Credit Card
+B-25743,704,-78,2,Clothing,Trousers,COD
+B-25867,43,20,3,Clothing,Orna,bKash
+B-25973,557,155,8,Clothing,Handkerchief,COD
+B-25895,543,130,2,Furniture,Bookcases,COD
+B-26003,697,-162,4,Clothing,Saree,bKash
+B-25717,785,297,3,Clothing,Saree,Credit Card
+B-26064,85,4,4,Clothing,Handkerchief,COD
+B-25630,48,-31,4,Clothing,T-shirt,COD
+B-26050,45,8,3,Clothing,Shirt,Rocket
+B-25786,872,-269,3,Furniture,Tables,bKash
+B-26035,728,211,3,Electronics,Phones,Credit Card
+B-25693,45,-22,6,Clothing,Saree,Rocket
+B-25703,45,-7,5,Clothing,Handkerchief,Nagad
+B-25966,714,328,6,Electronics,Electronic Games,EMI
+B-26060,535,95,3,Clothing,Saree,COD
+B-25898,46,18,3,Clothing,Leggings,bKash
+B-25686,533,-18,2,Clothing,Saree,COD
+B-26051,686,123,2,Electronics,Accessories,EMI
+B-25854,533,202,2,Clothing,Saree,COD
+B-26050,682,200,4,Electronics,Phones,EMI
+B-25961,512,118,3,Furniture,Bookcases,COD
+B-25701,46,-41,3,Clothing,Shirt,bKash
+B-25970,511,150,3,Electronics,Phones,COD
+B-25933,290,-140,2,Clothing,Saree,Nagad
+B-26081,503,-473,5,Furniture,Bookcases,COD
+B-25650,491,-66,8,Electronics,Phones,COD
+B-25850,679,279,4,Clothing,Saree,EMI
+B-25643,52,-32,4,Clothing,Shirt,Nagad
+B-26100,48,14,2,Clothing,T-shirt,Debit Card
+B-25964,484,151,3,Furniture,Chairs,COD
+B-25676,479,-144,4,Electronics,Electronic Games,COD
+B-25628,49,-11,2,Furniture,Furnishings,Debit Card
+B-25891,169,57,4,Clothing,Orna,bKash
+B-25903,470,80,2,Electronics,Phones,COD
+B-25851,470,99,3,Furniture,Bookcases,COD
+B-26089,38,6,1,Clothing,Handkerchief,COD
+B-25996,466,70,2,Electronics,Phones,COD
+B-25881,50,10,3,Clothing,Leggings,Debit Card
+B-25621,466,-21,3,Electronics,Phones,COD
+B-25727,458,160,4,Clothing,Trousers,COD
+B-25843,25,8,3,Clothing,Handkerchief,Nagad
+B-26050,455,45,7,Clothing,T-shirt,COD
+B-25741,675,-8,7,Electronics,Electronic Games,EMI
+B-25756,651,-46,4,Electronics,Phones,EMI
+B-25787,56,-17,3,Clothing,Shirt,COD
+B-25603,150,50,6,Clothing,Orna,COD
+B-25655,437,-437,7,Furniture,Chairs,COD
+B-26096,631,35,3,Electronics,Phones,EMI
+B-25962,437,87,1,Electronics,Electronic Games,COD
+B-26007,435,101,2,Furniture,Bookcases,COD
+B-26088,15,7,2,Clothing,Handkerchief,bKash
+B-25673,52,-7,3,Clothing,T-shirt,Debit Card
+B-25664,622,-280,4,Electronics,Phones,EMI
+B-25642,608,36,11,Clothing,Shirt,Credit Card
+B-25987,419,0,6,Clothing,Orna,COD
+B-25903,52,24,3,Clothing,Handkerchief,Debit Card
+B-25770,419,158,2,Furniture,Bookcases,COD
+B-25840,417,104,2,Furniture,Bookcases,COD
+B-25846,132,10,7,Clothing,Leggings,Nagad
+B-25745,414,315,11,Clothing,Saree,COD
+B-26073,52,24,3,Clothing,Handkerchief,Debit Card
+B-26030,407,130,2,Electronics,Printers,COD
+B-25678,458,-55,1,Electronics,Phones,COD
+B-26035,407,167,11,Clothing,Saree,COD
+B-25896,402,-92,6,Clothing,Three-Piece,COD
+B-25989,59,21,1,Electronics,Accessories,bKash
+B-26016,601,85,3,Electronics,Electronic Games,Credit Card
+B-26009,399,179,2,Electronics,Printers,COD
+B-25915,388,4,1,Electronics,Electronic Games,COD
+B-25845,384,-10,4,Electronics,Phones,COD
+B-25645,382,-122,4,Electronics,Phones,COD
+B-25803,377,127,1,Electronics,Electronic Games,COD
+B-26030,15,7,1,Clothing,Panjabi,COD
+B-25955,55,3,2,Clothing,Saree,Debit Card
+B-26096,370,-36,3,Clothing,Trousers,COD
+B-25635,56,22,3,Clothing,Handkerchief,Debit Card
+B-26038,57,27,2,Clothing,T-shirt,Debit Card
+B-25791,354,-88,2,Clothing,Saree,Nagad
+B-26014,568,136,7,Furniture,Chairs,Credit Card
+B-25751,45,10,3,Clothing,Handkerchief,COD
+B-25962,364,95,2,Electronics,Printers,COD
+B-26025,57,27,5,Clothing,Handkerchief,Debit Card
+B-26048,561,18,6,Furniture,Chairs,Credit Card
+B-25635,535,42,3,Clothing,Saree,Credit Card
+B-25981,1214,351,5,Electronics,Phones,COD
+B-25610,60,0,3,Clothing,Saree,Debit Card
+B-25733,60,-60,7,Clothing,Orna,Debit Card
+B-25977,104,41,3,Clothing,Orna,COD
+B-25655,62,-36,3,Clothing,Handkerchief,Debit Card
+B-25612,363,-77,2,Furniture,Chairs,COD
+B-25608,360,32,5,Clothing,Handkerchief,COD
+B-25752,106,38,5,Clothing,Orna,COD
+B-25700,62,-45,3,Clothing,Orna,Debit Card
+B-25856,360,4,2,Clothing,Saree,COD
+B-26026,357,106,9,Clothing,Handkerchief,COD
+B-25861,62,20,3,Clothing,Handkerchief,Debit Card
+B-25673,63,-3,4,Clothing,Shirt,COD
+B-25681,62,-4,1,Clothing,Saree,Debit Card
+B-26051,535,167,2,Clothing,Saree,Credit Card
+B-25951,350,140,3,Clothing,Trousers,COD
+B-25799,63,-21,2,Furniture,Chairs,COD
+B-26053,344,85,2,Furniture,Bookcases,COD
+B-26030,70,35,5,Clothing,Orna,COD
+B-26054,344,137,5,Clothing,Handkerchief,COD
+B-25696,62,139,3,Clothing,Three-Piece,Debit Card
+B-25660,343,-109,3,Clothing,Saree,COD
+B-25858,343,42,2,Clothing,Saree,COD
+B-26045,526,0,7,Clothing,Orna,Credit Card
+B-25850,63,1,3,Clothing,T-shirt,Debit Card
+B-25781,63,-39,2,Clothing,Orna,Debit Card
+B-25918,342,-171,5,Furniture,Furnishings,COD
+B-25971,342,116,2,Furniture,Bookcases,COD
+B-25870,14,6,1,Clothing,Three-Piece,Nagad
+B-25770,525,252,3,Furniture,Bookcases,Credit Card
+B-25757,64,20,5,Clothing,Panjabi,Debit Card
+B-25699,69,-43,2,Clothing,Orna,bKash
+B-25776,66,-28,2,Clothing,Three-Piece,Debit Card
+B-25893,497,-160,7,Clothing,Orna,Credit Card
+B-25985,45,11,5,Clothing,Handkerchief,Nagad
+B-25681,340,-20,2,Furniture,Chairs,COD
+B-26063,337,-108,4,Electronics,Electronic Games,COD
+B-26032,66,21,5,Clothing,Saree,Debit Card
+B-26001,70,-14,6,Clothing,Panjabi,Debit Card
+B-26056,21,8,2,Clothing,Handkerchief,COD
+B-25850,207,34,3,Clothing,Orna,COD
+B-25767,419,-39,3,Electronics,Electronic Games,Nagad
+B-25693,95,-42,1,Electronics,Phones,Nagad
+B-25850,73,25,5,Clothing,Leggings,Debit Card
+B-25796,335,-227,5,Furniture,Chairs,COD
+B-26053,38,8,3,Clothing,Panjabi,COD
+B-25650,333,28,2,Clothing,Saree,COD
+B-25961,67,22,3,Clothing,Shirt,COD
+B-26023,92,31,3,Clothing,Orna,Nagad
+B-25809,74,34,1,Clothing,Handkerchief,Debit Card
+B-25621,326,-14,5,Electronics,Electronic Games,COD
+B-25854,74,-3,3,Clothing,Saree,Debit Card
+B-26057,76,11,4,Clothing,T-shirt,Debit Card
+B-25688,493,-483,5,Clothing,Saree,Credit Card
+B-25885,489,0,7,Clothing,Orna,Credit Card
+B-25753,477,-119,6,Clothing,Trousers,Credit Card
+B-25981,76,17,3,Clothing,Saree,Debit Card
+B-26055,80,10,2,Clothing,Shirt,Nagad
+B-25714,476,28,7,Clothing,Shirt,Credit Card
+B-26055,318,67,5,Clothing,Orna,COD
+B-25989,462,113,1,Furniture,Bookcases,Credit Card
+B-25710,302,-53,6,Furniture,Furnishings,Nagad
+B-25773,314,-200,3,Furniture,Chairs,COD
+B-25661,77,-46,2,Furniture,Chairs,Debit Card
+B-26021,69,29,1,Clothing,Orna,Nagad
+B-26057,314,122,3,Clothing,Trousers,COD
+B-25858,312,38,2,Furniture,Bookcases,COD
+B-25857,454,55,8,Electronics,Accessories,Credit Card
+B-25656,78,25,2,Clothing,Handkerchief,Debit Card
+B-25999,312,87,7,Clothing,Shirt,COD
+B-25856,14,3,2,Clothing,Panjabi,COD
+B-25926,80,8,5,Clothing,Leggings,Debit Card
+B-25728,451,-158,4,Clothing,Saree,Credit Card
+B-26076,307,6,2,Clothing,Saree,COD
+B-25913,144,29,7,Clothing,Orna,Nagad
+B-25703,66,-38,4,Clothing,Saree,COD
+B-25858,307,0,1,Clothing,Saree,COD
+B-25727,80,-67,6,Clothing,Leggings,Debit Card
+B-26020,447,143,6,Electronics,Accessories,Credit Card
+B-26003,441,-11,3,Furniture,Chairs,Credit Card
+B-25925,440,-57,3,Electronics,Electronic Games,Credit Card
+B-26087,435,56,1,Electronics,Electronic Games,EMI
+B-25810,430,104,3,Electronics,Accessories,EMI
+B-25858,412,153,7,Electronics,Accessories,EMI
+B-25861,302,-116,3,Electronics,Electronic Games,COD
+B-25661,81,-59,2,Furniture,Chairs,Debit Card
+B-25943,67,28,4,Clothing,Orna,Nagad
+B-25955,76,20,3,Clothing,T-shirt,bKash
+B-26051,302,70,4,Clothing,Orna,COD
+B-25999,301,-42,2,Clothing,Saree,COD
+B-26083,60,11,3,Clothing,Leggings,COD
+B-25950,190,-46,5,Clothing,Saree,COD
+B-25625,83,-42,3,Clothing,Leggings,Debit Card
+B-26055,298,6,14,Clothing,Shirt,COD
+B-26023,83,29,2,Clothing,Orna,Debit Card
+B-26010,77,4,3,Clothing,T-shirt,COD
+B-25955,412,87,9,Clothing,T-shirt,EMI
+B-25900,294,87,2,Electronics,Phones,COD
+B-26089,83,34,6,Clothing,Three-Piece,Debit Card
+B-25655,554,-43,9,Clothing,Saree,COD
+B-25979,398,63,2,Furniture,Bookcases,EMI
+B-26002,386,73,5,Clothing,Saree,EMI
+B-25635,32,3,2,Clothing,Panjabi,bKash
+B-26084,293,-88,4,Electronics,Electronic Games,COD
+B-25998,70,-39,5,Furniture,Furnishings,COD
+B-25872,80,38,2,Clothing,Shirt,COD
+B-25795,386,-29,2,Electronics,Phones,EMI
+B-25902,375,8,2,Furniture,Bookcases,bKash
+B-25650,377,155,3,Clothing,Trousers,EMI
+B-25957,293,3,1,Clothing,Saree,COD
+B-25793,84,-17,4,Clothing,Handkerchief,Debit Card
+B-25654,377,-120,2,Electronics,Electronic Games,EMI
+B-25750,291,-35,2,Clothing,Saree,COD
+B-25835,38,3,2,Clothing,Leggings,Nagad
+B-25652,288,-288,3,Clothing,Saree,COD
+B-26018,85,11,4,Clothing,Handkerchief,Debit Card
+B-25750,297,-34,2,Furniture,Chairs,COD
+B-25840,367,90,6,Clothing,Saree,EMI
+B-25756,286,386,3,Furniture,Bookcases,COD
+B-25777,83,-64,7,Clothing,T-shirt,bKash
+B-25750,279,-25,2,Clothing,Saree,COD
+B-25823,83,8,1,Electronics,Accessories,bKash
+B-26096,63,13,3,Clothing,Leggings,Nagad
+B-25757,295,27,8,Clothing,Orna,COD
+B-25698,91,-22,2,Electronics,Phones,Debit Card
+B-25710,35,0,4,Clothing,Panjabi,bKash
+B-25994,274,-10,5,Electronics,Phones,COD
+B-25950,365,18,6,Clothing,Shirt,Credit Card
+B-25653,273,-164,5,Electronics,Phones,COD
+B-25785,269,-204,3,Clothing,Saree,COD
+B-25863,265,122,7,Clothing,Orna,COD
+B-25959,45,3,2,Clothing,Three-Piece,bKash
+B-25991,263,18,7,Clothing,Shirt,COD
+B-25680,102,-35,3,Clothing,Saree,COD
+B-25910,363,66,5,Clothing,Handkerchief,Credit Card
+B-25737,262,-21,3,Clothing,Trousers,COD
+B-25853,36,15,2,Clothing,Handkerchief,bKash
+B-26097,259,-36,6,Furniture,Chairs,COD
+B-25875,347,11,2,Clothing,Saree,Credit Card
+B-26031,94,13,4,Clothing,Leggings,Debit Card
+B-25773,347,-98,3,Furniture,Chairs,Credit Card
+B-25840,344,85,2,Furniture,Bookcases,Credit Card
+B-25908,251,-35,5,Clothing,Three-Piece,COD
+B-26041,246,-39,5,Furniture,Furnishings,COD
+B-26010,246,-18,5,Furniture,Furnishings,COD
+B-25640,95,-87,2,Clothing,Trousers,Debit Card
+B-25794,246,52,6,Electronics,Accessories,COD
+B-25987,123,15,7,Clothing,Handkerchief,Rocket
+B-25615,95,28,5,Clothing,Handkerchief,Debit Card
+B-25997,323,139,2,Electronics,Electronic Games,Credit Card
+B-25981,87,11,2,Clothing,T-shirt,bKash
+B-25791,245,108,3,Clothing,Saree,COD
+B-25986,99,6,5,Clothing,Leggings,Debit Card
+B-25652,244,-98,3,Electronics,Accessories,COD
+B-25952,242,97,3,Furniture,Chairs,COD
+B-25898,239,3,2,Electronics,Electronic Games,COD
+B-25785,375,-35,3,Clothing,Saree,COD
+B-25990,99,45,3,Clothing,Saree,Debit Card
+B-26091,41,14,4,Clothing,Handkerchief,Nagad
+B-25604,91,24,2,Clothing,T-shirt,Nagad
+B-25754,101,-64,7,Clothing,Three-Piece,Debit Card
+B-25724,235,-71,2,Furniture,Bookcases,COD
+B-25757,231,42,3,Clothing,Orna,COD
+B-25767,104,-83,2,Electronics,Accessories,Debit Card
+B-25886,125,24,2,Clothing,Orna,bKash
+B-25621,319,88,3,Electronics,Electronic Games,Credit Card
+B-25967,167,-34,4,Furniture,Furnishings,COD
+B-25691,105,-35,3,Clothing,Orna,Nagad
+B-25953,94,28,4,Clothing,T-shirt,bKash
+B-25651,10,0,1,Clothing,Leggings,COD
+B-25828,311,49,5,Clothing,Saree,Credit Card
+B-25628,307,-13,4,Clothing,Saree,Credit Card
+B-25703,59,-32,2,Furniture,Furnishings,Nagad
+B-25929,302,-189,3,Furniture,Chairs,Credit Card
+B-25748,66,-29,2,Electronics,Electronic Games,COD
+B-25610,95,-77,5,Electronics,Accessories,Nagad
+B-25903,104,46,2,Clothing,Shirt,Debit Card
+B-25878,231,64,3,Furniture,Furnishings,COD
+B-26056,141,15,2,Clothing,Handkerchief,bKash
+B-26004,227,102,2,Electronics,Electronic Games,COD
+B-25699,28,-31,1,Furniture,Furnishings,bKash
+B-26053,227,77,3,Clothing,Orna,COD
+B-25654,321,-32,2,Clothing,Saree,Rocket
+B-25954,38,0,2,Clothing,Leggings,COD
+B-25910,959,10,7,Clothing,Trousers,bKash
+B-26064,105,3,5,Clothing,Leggings,Debit Card
+B-25983,225,-321,8,Furniture,Furnishings,COD
+B-26002,99,27,3,Clothing,T-shirt,COD
+B-25650,295,-147,2,Clothing,Saree,Credit Card
+B-26043,111,7,6,Clothing,Handkerchief,Debit Card
+B-25657,45,-31,5,Clothing,Saree,Rocket
+B-25838,225,56,3,Clothing,Orna,COD
+B-25651,223,6,1,Clothing,Saree,COD
+B-25808,294,-70,4,Clothing,Handkerchief,Credit Card
+B-25973,111,55,2,Clothing,Shirt,Debit Card
+B-25698,290,214,3,Clothing,Saree,Credit Card
+B-25818,50,0,4,Clothing,Three-Piece,COD
+B-26061,288,17,1,Electronics,Printers,Credit Card
+B-25878,64,0,4,Clothing,Leggings,COD
+B-26054,218,32,3,Clothing,Orna,COD
+B-25809,216,76,3,Clothing,Handkerchief,COD
+B-26042,50,21,3,Clothing,Orna,Nagad
+B-26008,288,71,4,Clothing,Handkerchief,Credit Card
+B-25927,280,10,4,Electronics,Electronic Games,Credit Card
+B-26008,279,-1,1,Clothing,Saree,Credit Card
+B-25753,216,31,7,Clothing,T-shirt,COD
+B-25948,213,32,3,Furniture,Furnishings,COD
+B-26094,213,70,6,Clothing,Orna,COD
+B-25654,171,-29,3,Furniture,Furnishings,Nagad
+B-25854,209,67,6,Clothing,Orna,COD
+B-25623,209,-122,4,Clothing,Saree,COD
+B-25985,276,28,4,Clothing,Three-Piece,Credit Card
+B-25723,106,-76,3,Electronics,Electronic Games,COD
+B-25751,309,-21,2,Electronics,Electronic Games,COD
+B-26050,111,45,3,Clothing,Saree,Debit Card
+B-25800,63,17,7,Clothing,Handkerchief,Rocket
+B-25673,209,-1,1,Clothing,Saree,COD
+B-26002,112,31,3,Clothing,Orna,Debit Card
+B-26009,273,17,9,Clothing,Shirt,Credit Card
+B-25754,27,0,3,Clothing,Panjabi,Rocket
+B-25953,113,57,3,Clothing,Orna,Debit Card
+B-26039,116,48,5,Clothing,Shirt,Debit Card
+B-26001,209,24,4,Furniture,Furnishings,COD
+B-25620,270,64,1,Electronics,Printers,Credit Card
+B-26051,119,34,10,Clothing,Handkerchief,Debit Card
+B-25673,62,-24,5,Clothing,Saree,Nagad
+B-25721,209,-56,2,Electronics,Phones,COD
+B-25764,36,0,2,Clothing,Three-Piece,COD
+B-25645,120,0,4,Clothing,T-shirt,Debit Card
+B-26066,120,31,2,Clothing,Saree,Debit Card
+B-26003,111,22,3,Clothing,T-shirt,COD
+B-25712,270,-385,3,Electronics,Phones,Credit Card
+B-25796,207,0,3,Clothing,Saree,COD
+B-25738,98,-20,2,Furniture,Furnishings,bKash
+B-25771,207,83,3,Clothing,Handkerchief,COD
+B-25950,266,27,9,Furniture,Furnishings,Credit Card
+B-26038,73,20,2,Clothing,Orna,COD
+B-26004,206,62,3,Clothing,Saree,COD
+B-25896,266,95,8,Clothing,T-shirt,Credit Card
+B-25601,112,-78,4,Electronics,Electronic Games,Nagad
+B-25952,206,67,3,Clothing,Saree,COD
+B-25873,92,17,3,Clothing,Orna,COD
+B-25844,120,11,2,Clothing,Saree,Debit Card
+B-26054,123,27,2,Clothing,Shirt,Debit Card
+B-25953,263,-270,2,Electronics,Electronic Games,Credit Card
+B-25951,125,41,2,Clothing,Orna,bKash
+B-26065,204,27,5,Clothing,Orna,COD
+B-26033,200,45,1,Furniture,Bookcases,COD
+B-25781,35,-1,4,Clothing,Three-Piece,COD
+B-26043,42,17,3,Clothing,Panjabi,bKash
+B-25787,196,-81,4,Furniture,Furnishings,COD
+B-25664,116,-67,1,Furniture,Bookcases,bKash
+B-25825,196,8,5,Clothing,Saree,COD
+B-25818,39,20,4,Clothing,Handkerchief,COD
+B-25765,195,20,3,Clothing,Orna,COD
+B-25853,42,20,3,Clothing,Handkerchief,Nagad
+B-26030,125,50,3,Clothing,Shirt,Nagad
+B-25730,262,42,4,Electronics,Accessories,Credit Card
+B-26054,195,29,3,Electronics,Accessories,COD
+B-25773,612,-20,2,Clothing,Saree,bKash
+B-25717,193,-4,5,Clothing,Saree,COD
+B-26010,119,18,2,Clothing,Shirt,Nagad
+B-25893,116,17,3,Clothing,Orna,Rocket
+B-26076,127,31,2,Clothing,Orna,bKash
+B-25803,192,7,5,Clothing,Shirt,COD
+B-25709,46,-17,7,Clothing,Saree,bKash
+B-25755,188,-48,2,Furniture,Chairs,COD
+B-25684,188,59,2,Furniture,Chairs,COD
+B-25739,186,-78,2,Furniture,Chairs,COD
+B-26081,130,-118,3,Clothing,Saree,bKash
+B-25662,120,-29,1,Electronics,Electronic Games,Nagad
+B-25845,185,76,5,Clothing,Orna,COD
+B-26085,185,-14,3,Clothing,Saree,COD
+B-25745,185,-111,5,Furniture,Furnishings,COD
+B-25999,130,-91,4,Clothing,Orna,bKash
+B-26082,133,7,2,Clothing,Orna,Nagad
+B-26097,136,17,2,Clothing,Handkerchief,bKash
+B-25731,183,-216,8,Furniture,Furnishings,COD
+B-25625,136,41,2,Clothing,Handkerchief,bKash
+B-25853,179,6,3,Clothing,Saree,COD
+B-25703,260,337,9,Clothing,Shirt,Credit Card
+B-26003,179,66,4,Clothing,Handkerchief,COD
+B-25803,259,67,4,Clothing,Orna,Credit Card
+B-25719,41,14,2,Clothing,Orna,COD
+B-25883,178,41,3,Furniture,Furnishings,COD
+B-25891,136,50,7,Clothing,Handkerchief,Nagad
+B-25821,175,0,3,Electronics,Accessories,COD
+B-25646,419,-11,2,Clothing,Saree,COD
+B-25874,174,76,5,Clothing,T-shirt,COD
+B-25717,126,24,3,Clothing,Shirt,COD
+B-26073,171,15,4,Clothing,Handkerchief,COD
+B-25800,171,-92,9,Electronics,Accessories,COD
+B-25991,126,42,2,Furniture,Chairs,Nagad
+B-25638,255,-15,3,Furniture,Bookcases,Credit Card
+B-26021,171,83,7,Furniture,Furnishings,COD
+B-25882,169,27,4,Clothing,Orna,COD
+B-26053,168,1,1,Furniture,Chairs,COD
+B-25951,168,32,5,Clothing,Orna,COD
+B-25757,48,-15,5,Clothing,T-shirt,COD
+B-25777,164,24,6,Clothing,Three-Piece,COD
+B-26040,53,13,2,Clothing,Orna,COD
+B-25696,164,-8,3,Electronics,Phones,COD
+B-25977,252,76,4,Clothing,T-shirt,Credit Card
+B-25743,139,-7,1,Clothing,Saree,bKash
+B-25651,241,-144,3,Furniture,Chairs,EMI
+B-25603,162,22,4,Clothing,Orna,COD
+B-25696,162,-6,1,Clothing,Saree,COD
+B-26037,239,95,7,Clothing,Orna,EMI
+B-26098,64,20,5,Clothing,Panjabi,COD
+B-25697,161,-55,3,Clothing,Trousers,COD
+B-25920,140,10,2,Clothing,T-shirt,bKash
+B-25993,62,11,2,Clothing,Orna,COD
+B-26089,195,20,3,Clothing,Three-Piece,COD
+B-25960,239,-196,2,Furniture,Bookcases,EMI
+B-25917,140,17,2,Clothing,T-shirt,bKash
+B-25825,161,35,6,Clothing,Orna,COD
+B-25696,235,-13,3,Clothing,Saree,COD
+B-25972,161,66,2,Electronics,Accessories,COD
+B-25602,235,-155,2,Electronics,Phones,EMI
+B-25736,43,-10,5,Clothing,Panjabi,Rocket
+B-26003,160,57,6,Furniture,Furnishings,COD
+B-25970,155,13,4,Clothing,Orna,COD
+B-25742,15,-11,2,Clothing,Panjabi,bKash
+B-25770,154,49,1,Furniture,Furnishings,COD
+B-26098,83,21,2,Clothing,T-shirt,bKash
+B-26050,232,38,2,Electronics,Accessories,EMI
+B-25778,153,-8,6,Clothing,Saree,COD
+B-25652,48,-8,4,Clothing,Leggings,COD
+B-25999,153,56,1,Furniture,Furnishings,COD
+B-25909,151,31,3,Electronics,Accessories,COD
+B-25823,144,70,2,Furniture,Furnishings,bKash
+B-25701,14,-11,2,Clothing,Panjabi,COD
+B-25855,126,24,3,Clothing,Handkerchief,COD
+B-25654,147,64,2,Clothing,Orna,Nagad
+B-25623,147,28,2,Clothing,Orna,Debit Card
+B-25641,31,-8,1,Furniture,Furnishings,COD
+B-25852,147,-46,5,Clothing,Three-Piece,COD
+B-25958,147,35,2,Clothing,Handkerchief,EMI
+B-25802,35,-10,5,Clothing,Saree,bKash
+B-25823,146,3,2,Furniture,Furnishings,COD
+B-25834,22,7,1,Clothing,Orna,bKash
+B-25678,90,-10,3,Clothing,Saree,COD
+B-25774,53,-8,2,Furniture,Furnishings,Nagad
+B-25904,116,17,2,Furniture,Chairs,COD
+B-25896,144,50,2,Clothing,Handkerchief,COD
+B-25796,52,-8,1,Clothing,Saree,Nagad
+B-25934,147,46,6,Clothing,Saree,EMI
+B-25750,109,-8,2,Furniture,Furnishings,Rocket
+B-25761,143,-126,1,Clothing,Saree,COD
+B-25912,143,15,6,Clothing,T-shirt,COD
+B-25751,14,-11,1,Clothing,Three-Piece,bKash
+B-25656,141,25,9,Clothing,Panjabi,COD
+B-25647,59,-8,4,Clothing,Saree,Nagad
+B-25861,78,25,2,Clothing,Handkerchief,bKash
+B-25802,133,7,2,Clothing,Orna,COD
+B-25901,223,3,3,Furniture,Furnishings,EMI
+B-25623,221,97,3,Clothing,Orna,EMI
+B-25751,148,0,2,Electronics,Phones,EMI
+B-26052,141,22,4,Clothing,T-shirt,COD
+B-25886,150,52,3,Clothing,Shirt,COD
+B-25804,218,50,5,Clothing,T-shirt,EMI
+B-25734,151,-27,3,Electronics,Electronic Games,bKash
+B-25610,150,-76,4,Clothing,Orna,EMI
+B-25711,140,-81,4,Clothing,Handkerchief,COD
+B-25985,151,36,4,Clothing,Shirt,bKash
+B-25864,140,8,4,Clothing,Orna,COD
+B-25648,140,-32,1,Electronics,Phones,COD
+B-26086,60,24,2,Clothing,T-shirt,bKash
+B-25835,217,36,3,Clothing,Orna,EMI
+B-25949,211,13,3,Clothing,Handkerchief,EMI
+B-25930,211,41,5,Clothing,Handkerchief,EMI
+B-25655,154,-95,4,Clothing,Saree,EMI
+B-25757,137,13,2,Furniture,Furnishings,COD
+B-25655,136,-87,2,Clothing,Trousers,COD
+B-26033,155,49,5,Clothing,Shirt,COD
+B-26083,63,24,1,Electronics,Accessories,COD
+B-25805,157,21,2,Furniture,Chairs,COD
+B-25955,154,28,5,Clothing,Orna,Debit Card
+B-25762,137,-7,2,Clothing,Saree,bKash
+B-25919,154,17,7,Clothing,Orna,Debit Card
+B-25853,133,15,4,Furniture,Furnishings,COD
+B-25925,1719,20,3,Furniture,Chairs,Rocket
+B-26023,41,0,3,Furniture,Furnishings,COD
+B-26055,132,38,2,Clothing,T-shirt,COD
+B-25653,161,35,1,Electronics,Accessories,COD
+B-25893,209,21,3,Clothing,Saree,EMI
+B-26052,207,32,4,Clothing,Three-Piece,EMI
+B-25830,130,21,2,Electronics,Accessories,COD
+B-26040,158,34,4,Clothing,Handkerchief,Debit Card
+B-25981,67,3,3,Clothing,Orna,COD
+B-25954,207,13,1,Electronics,Electronic Games,bKash
+B-25889,160,15,4,Clothing,T-shirt,Debit Card
+B-25810,129,59,2,Clothing,Orna,COD
+B-25637,164,20,3,Clothing,Shirt,bKash
+B-25801,29,-14,4,Clothing,Leggings,COD
+B-25783,46,-14,6,Clothing,Leggings,bKash
+B-25697,160,11,3,Electronics,Accessories,Debit Card
+B-26028,161,0,1,Electronics,Accessories,Debit Card
+B-25851,126,41,5,Clothing,T-shirt,COD
+B-25938,85,1,2,Furniture,Furnishings,COD
+B-25820,167,1,1,Furniture,Chairs,COD
+B-25850,164,50,2,Clothing,Trousers,Debit Card
+B-25924,207,76,2,Furniture,Chairs,Rocket
+B-25609,349,-7,4,Clothing,Saree,COD
+B-25898,206,102,3,Clothing,Orna,Nagad
+B-25814,165,49,7,Clothing,T-shirt,EMI
+B-26087,167,78,7,Clothing,Saree,EMI
+B-25901,126,38,2,Clothing,T-shirt,COD
+B-26025,45,1,2,Clothing,Orna,COD
+B-25631,125,-125,2,Furniture,Furnishings,COD
+B-25954,204,92,1,Electronics,Phones,bKash
+B-25956,125,-52,4,Clothing,Shirt,COD
+B-26096,123,15,3,Electronics,Accessories,COD
+B-25862,169,57,4,Clothing,Orna,EMI
+B-26054,123,28,2,Clothing,Saree,COD
+B-25698,122,-116,5,Clothing,Three-Piece,COD
+B-25606,122,6,2,Clothing,Shirt,COD
+B-25928,171,21,3,Electronics,Accessories,EMI
+B-26005,122,14,3,Clothing,Orna,COD
+B-25963,74,11,3,Furniture,Furnishings,Nagad
+B-25952,122,-45,9,Clothing,Panjabi,COD
+B-25683,120,-77,6,Clothing,Saree,COD
+B-25914,175,31,3,Clothing,Orna,EMI
+B-25828,179,-4,3,Clothing,Saree,Debit Card
+B-25743,200,-174,5,Clothing,Saree,bKash
+B-26085,120,31,2,Clothing,Saree,COD
+B-25869,120,13,3,Clothing,Saree,COD
+B-25773,119,-13,4,Clothing,Saree,COD
+B-25700,181,-105,5,Clothing,Shirt,Debit Card
+B-25921,118,-59,2,Electronics,Accessories,COD
+B-25730,116,-113,3,Furniture,Chairs,COD
+B-26083,200,8,2,Electronics,Accessories,Rocket
+B-25849,470,172,3,Electronics,Phones,bKash
+B-25909,452,171,5,Electronics,Phones,bKash
+B-26038,182,85,3,Clothing,Shirt,Debit Card
+B-25999,213,-4,5,Clothing,Saree,COD
+B-25928,35,14,1,Furniture,Furnishings,bKash
+B-25878,196,21,5,Clothing,Orna,bKash
+B-25843,63,0,2,Clothing,Orna,Nagad
+B-25959,185,69,3,Clothing,Shirt,COD
+B-25630,186,17,5,Clothing,Orna,Debit Card
+B-25858,115,18,2,Clothing,Shirt,COD
+B-26096,196,78,4,Clothing,Shirt,bKash
+B-25838,113,27,7,Clothing,Handkerchief,COD
+B-25943,192,53,5,Clothing,Handkerchief,Debit Card
+B-25780,192,-57,3,Electronics,Phones,Debit Card
+B-25949,196,80,2,Clothing,Trousers,Debit Card
+B-25892,195,42,3,Clothing,Shirt,Nagad
+B-26054,193,15,5,Clothing,Orna,Nagad
+B-25988,111,-174,9,Clothing,Panjabi,COD
+B-25939,190,57,3,Electronics,Accessories,bKash
+B-26083,203,22,3,Clothing,T-shirt,Debit Card
+B-26078,62,28,2,Clothing,T-shirt,bKash
+B-25902,111,8,7,Clothing,Saree,COD
+B-25676,111,50,4,Clothing,Shirt,COD
+B-26016,188,-18,3,Electronics,Electronic Games,Nagad
+B-25950,186,7,5,Clothing,Orna,bKash
+B-26056,66,28,7,Clothing,Handkerchief,bKash
+B-25645,186,-59,1,Electronics,Printers,bKash
+B-25906,109,38,3,Clothing,Orna,COD
+B-26017,109,10,1,Furniture,Chairs,COD
+B-25644,106,-129,8,Furniture,Furnishings,COD
+B-25679,106,-70,1,Clothing,Saree,COD
+B-25854,106,27,3,Clothing,Handkerchief,COD
+B-25670,104,41,3,Clothing,Orna,COD
+B-25792,104,-35,3,Clothing,Orna,COD
+B-25808,204,-88,3,Electronics,Electronic Games,Debit Card
+B-25750,102,-43,1,Furniture,Bookcases,COD
+B-26051,112,31,3,Clothing,Orna,bKash
+B-26076,186,64,5,Clothing,Shirt,EMI
+B-25946,204,10,2,Electronics,Phones,Debit Card
+B-25648,182,-57,4,Clothing,Saree,EMI
+B-25992,197,57,3,Clothing,Shirt,Nagad
+B-25848,206,29,3,Furniture,Furnishings,Debit Card
+B-25697,102,-10,1,Electronics,Phones,COD
+B-25659,207,101,7,Clothing,T-shirt,Debit Card
+B-25716,81,0,4,Clothing,Saree,bKash
+B-25652,29,-18,3,Clothing,Leggings,bKash
+B-26093,207,35,3,Clothing,Saree,Debit Card
+B-25725,202,-10,4,Electronics,Electronic Games,COD
+B-25661,203,-146,5,Furniture,Chairs,Nagad
+B-25693,101,-69,1,Electronics,Phones,COD
+B-25910,175,21,5,Clothing,Shirt,EMI
+B-25943,209,21,3,Clothing,Saree,Debit Card
+B-26100,101,22,2,Clothing,Shirt,COD
+B-25830,99,0,8,Clothing,Panjabi,COD
+B-25932,99,-20,4,Furniture,Furnishings,COD
+B-25929,216,-119,3,Furniture,Chairs,EMI
+B-25708,267,18,8,Furniture,Furnishings,COD
+B-25921,238,27,5,Clothing,T-shirt,bKash
+B-25755,66,-4,2,Clothing,Orna,bKash
+B-25640,171,-66,4,Clothing,Saree,EMI
+B-25838,98,36,5,Clothing,Handkerchief,COD
+B-26025,217,7,3,Clothing,Orna,EMI
+B-25789,94,-120,9,Furniture,Furnishings,COD
+B-25697,94,-59,3,Clothing,Orna,COD
+B-25797,207,-141,2,Furniture,Bookcases,Nagad
+B-26064,171,53,6,Clothing,T-shirt,Credit Card
+B-25732,22,-7,2,Clothing,Orna,bKash
+B-25654,169,-24,3,Furniture,Furnishings,Credit Card
+B-25750,59,-21,12,Clothing,Panjabi,Nagad
+B-25751,91,-6,6,Clothing,Handkerchief,COD
+B-25889,167,-60,7,Clothing,Three-Piece,Credit Card
+B-25683,217,78,3,Furniture,Furnishings,EMI
+B-25602,167,-7,8,Clothing,Saree,Credit Card
+B-25871,165,35,4,Clothing,Handkerchief,Credit Card
+B-25953,162,31,1,Electronics,Accessories,Credit Card
+B-25950,221,-41,10,Clothing,Handkerchief,EMI
+B-26091,221,97,3,Clothing,Orna,EMI
+B-25753,91,-73,3,Electronics,Accessories,COD
+B-25611,224,-83,2,Clothing,Saree,EMI
+B-25935,227,28,3,Furniture,Chairs,EMI
+B-25886,88,1,4,Clothing,T-shirt,COD
+B-25833,90,38,5,Clothing,Handkerchief,bKash
+B-25665,232,-158,4,Electronics,Accessories,EMI
+B-25694,234,60,7,Clothing,T-shirt,EMI
+B-25668,172,24,3,Furniture,Furnishings,COD
+B-25945,88,20,2,Clothing,Shirt,COD
+B-25954,1247,0,5,Clothing,Saree,COD
+B-25818,105,39,9,Clothing,Handkerchief,bKash
+B-25861,87,8,5,Clothing,Handkerchief,COD
+B-25721,41,-25,7,Clothing,Panjabi,bKash
+B-26024,235,25,6,Clothing,Orna,Debit Card
+B-26056,98,34,3,Clothing,Orna,bKash
+B-26050,237,77,4,Clothing,Saree,Debit Card
+B-25708,45,-11,2,Clothing,Orna,COD
+B-25651,62,-11,3,Clothing,Orna,Nagad
+B-25616,162,-78,5,Clothing,Orna,Credit Card
+B-25827,218,29,3,Furniture,Chairs,COD
+B-25996,87,8,6,Clothing,Panjabi,COD
+B-25830,76,1,2,Clothing,Saree,bKash
+B-25951,155,15,9,Clothing,Handkerchief,Credit Card
+B-25713,221,-88,4,Furniture,Chairs,bKash
+B-25678,10,-4,2,Clothing,Panjabi,Nagad
+B-25901,85,39,2,Clothing,Handkerchief,bKash
+B-25798,85,-70,4,Clothing,Handkerchief,COD
+B-25902,216,36,4,Electronics,Accessories,COD
+B-25851,87,1,3,Clothing,Saree,COD
+B-25944,237,53,3,Clothing,Saree,Debit Card
+B-25939,85,25,2,Electronics,Accessories,COD
+B-25656,85,-32,2,Clothing,Saree,COD
+B-25695,239,20,9,Clothing,Shirt,Debit Card
+B-25781,84,-69,8,Clothing,Handkerchief,COD
+B-25783,35,-15,1,Clothing,Orna,bKash
+B-25867,228,36,4,Clothing,Shirt,COD
+B-25993,242,120,1,Electronics,Printers,Debit Card
+B-25755,360,-4,2,Furniture,Bookcases,bKash
+B-25880,151,52,2,Clothing,Orna,Credit Card
+B-25941,248,57,4,Clothing,Shirt,Debit Card
+B-25757,148,21,7,Clothing,Handkerchief,Credit Card
+B-25754,57,-20,5,Clothing,Leggings,bKash
+B-25653,235,-14,3,Electronics,Accessories,Nagad
+B-25821,84,29,4,Clothing,Orna,COD
+B-25706,43,-15,4,Clothing,Orna,COD
+B-26064,251,0,2,Clothing,Saree,Debit Card
+B-25803,148,17,3,Clothing,Trousers,Credit Card
+B-26076,84,18,2,Clothing,T-shirt,COD
+B-25603,252,7,3,Clothing,Trousers,Debit Card
+B-25903,84,-14,2,Furniture,Furnishings,COD
+B-25938,83,35,3,Clothing,Orna,COD
+B-25868,238,102,2,Electronics,Accessories,bKash
+B-25956,83,14,2,Clothing,Handkerchief,COD
+B-25652,34,-29,7,Clothing,Panjabi,COD
+B-25883,147,-36,8,Clothing,Leggings,Credit Card
+B-26096,144,64,2,Clothing,Saree,Credit Card
+B-25969,239,24,6,Clothing,T-shirt,Nagad
+B-25951,143,18,2,Clothing,Orna,Credit Card
+B-25855,137,17,2,Clothing,Handkerchief,Credit Card
+B-26091,83,14,4,Clothing,Leggings,COD
+B-25954,265,84,4,Furniture,Furnishings,Debit Card
+B-25763,81,-73,3,Furniture,Chairs,COD
+B-25945,84,4,3,Clothing,Saree,bKash
+B-25740,81,-11,2,Clothing,Saree,COD
+B-25818,132,28,2,Furniture,Furnishings,Nagad
+B-25603,270,-232,3,Clothing,Saree,EMI
+B-25964,279,0,4,Clothing,Orna,EMI
+B-25930,283,125,9,Clothing,T-shirt,EMI
+B-25930,81,24,2,Clothing,Handkerchief,COD
+B-25879,80,-39,2,Clothing,Three-Piece,COD
+B-25903,286,-132,4,Clothing,Handkerchief,EMI
+B-25614,137,-17,2,Electronics,Electronic Games,Credit Card
+B-25750,31,-17,3,Clothing,Orna,COD
+B-25852,136,24,2,Clothing,Orna,Credit Card
+B-26008,80,34,5,Clothing,Leggings,COD
+B-26092,136,20,2,Clothing,T-shirt,Credit Card
+B-25689,136,24,2,Clothing,Orna,Credit Card
+B-25730,134,31,5,Clothing,Orna,Credit Card
+B-25885,132,38,2,Clothing,Shirt,Credit Card
+B-25999,36,-24,1,Clothing,Orna,COD
+B-26011,130,62,2,Clothing,Orna,Credit Card
+B-25754,130,-91,4,Clothing,Orna,Credit Card
+B-26030,129,7,6,Clothing,Handkerchief,Credit Card
+B-25851,80,38,2,Clothing,T-shirt,COD
+B-25870,80,10,3,Furniture,Furnishings,COD
+B-26074,80,29,4,Clothing,Leggings,COD
+B-25861,179,6,3,Clothing,Saree,COD
+B-25797,125,-6,5,Clothing,Saree,Credit Card
+B-25993,309,36,7,Furniture,Furnishings,COD
+B-25799,287,-167,3,Clothing,Saree,Debit Card
+B-25721,267,71,5,Clothing,Shirt,bKash
+B-26056,288,25,4,Clothing,Handkerchief,Debit Card
+B-25743,78,0,4,Clothing,Handkerchief,COD
+B-25854,123,22,4,Clothing,Orna,Credit Card
+B-25748,314,81,3,Electronics,Phones,bKash
+B-25976,270,11,4,Clothing,T-shirt,bKash
+B-25953,122,50,5,Clothing,Orna,Credit Card
+B-25996,265,6,1,Clothing,Saree,Rocket
+B-25717,77,-46,2,Furniture,Chairs,COD
+B-25865,119,-1,3,Clothing,Saree,Credit Card
+B-25959,353,78,2,Electronics,Phones,bKash
+B-25855,276,102,1,Furniture,Bookcases,COD
+B-25703,24,-4,2,Clothing,Orna,Nagad
+B-26049,140,39,2,Clothing,Handkerchief,Nagad
+B-25755,112,-27,5,Clothing,Orna,bKash
+B-26070,105,41,1,Clothing,Trousers,bKash
+B-25755,36,6,2,Clothing,Saree,Rocket
+B-26047,77,17,5,Clothing,Panjabi,COD
+B-25604,220,7,9,Clothing,Saree,bKash
+B-25651,280,-84,4,Furniture,Bookcases,bKash
+B-25983,322,7,2,Clothing,Saree,bKash
+B-26056,298,-203,3,Furniture,Bookcases,Debit Card
+B-25940,77,6,2,Clothing,Orna,COD
+B-25766,308,-27,2,Clothing,Saree,Debit Card
+B-25935,210,45,3,Clothing,Handkerchief,COD
+B-25970,284,118,2,Electronics,Printers,Nagad
+B-26053,130,43,3,Electronics,Accessories,bKash
+B-25947,406,49,6,Clothing,Handkerchief,COD
+B-25856,67,8,1,Clothing,Saree,COD
+B-26030,309,49,4,Electronics,Accessories,Debit Card
+B-26069,77,25,2,Clothing,Three-Piece,COD
+B-25653,318,143,8,Electronics,Accessories,Debit Card
+B-25627,77,-55,4,Clothing,Orna,COD
+B-25947,290,46,2,Electronics,Accessories,Nagad
+B-25801,90,8,4,Clothing,Saree,COD
+B-25964,125,8,5,Clothing,Saree,COD
+B-25950,76,38,2,Clothing,Orna,COD
+B-25878,118,57,3,Clothing,T-shirt,Credit Card
+B-25773,293,-29,2,Electronics,Electronic Games,bKash
+B-26081,111,46,4,Clothing,Orna,bKash
+B-26027,76,11,4,Clothing,T-shirt,COD
+B-25967,321,83,9,Clothing,Saree,Debit Card
+B-25901,221,53,3,Clothing,Handkerchief,Nagad
+B-25951,347,147,2,Electronics,Phones,Debit Card
+B-25853,279,8,2,Clothing,Saree,bKash
+B-25923,354,-15,1,Clothing,Trousers,Debit Card
+B-25793,360,-353,4,Clothing,Saree,Debit Card
+B-26068,270,46,5,Electronics,Accessories,COD
+B-26080,153,49,6,Clothing,T-shirt,COD
+B-25843,300,42,3,Electronics,Accessories,COD
+B-26002,197,10,7,Clothing,Saree,COD
+B-25993,281,45,4,Furniture,Furnishings,bKash
+B-26070,76,17,4,Clothing,Shirt,COD
+B-25887,116,8,6,Clothing,Shirt,EMI
+B-25654,76,-4,3,Clothing,Saree,COD
+B-25898,74,7,3,Clothing,T-shirt,COD
+B-25664,361,-38,2,Electronics,Phones,Debit Card
+B-26012,279,11,2,Clothing,Saree,COD
+B-25979,115,-38,3,Clothing,Three-Piece,EMI
+B-26054,195,50,3,Clothing,Orna,COD
+B-25757,74,21,2,Clothing,Orna,COD
+B-25623,74,1,4,Clothing,Orna,COD
+B-25824,141,53,2,Furniture,Furnishings,COD
+B-25754,367,301,2,Electronics,Printers,Debit Card
+B-25693,115,-55,5,Clothing,T-shirt,EMI
+B-25638,216,55,3,Clothing,Handkerchief,COD
+B-25922,73,25,2,Clothing,Orna,COD
+B-25919,2239,52,6,Electronics,Electronic Games,Nagad
+B-25989,473,57,7,Clothing,Handkerchief,bKash
+B-25999,71,-69,2,Electronics,Electronic Games,COD
+B-25661,314,-113,3,Furniture,Chairs,COD
+B-26099,290,52,4,Clothing,Handkerchief,COD
+B-25866,71,20,2,Clothing,Orna,COD
+B-26098,115,11,3,Electronics,Accessories,EMI
+B-26062,70,-24,2,Clothing,Orna,COD
+B-25761,368,-43,9,Electronics,Electronic Games,Debit Card
+B-25843,70,10,6,Clothing,Panjabi,COD
+B-25683,343,-4,4,Electronics,Phones,bKash
+B-25959,115,34,6,Clothing,Handkerchief,EMI
+B-25787,321,-57,8,Electronics,Accessories,COD
+B-25951,70,20,1,Electronics,Electronic Games,COD
+B-26056,308,56,2,Electronics,Accessories,COD
+B-25643,368,-88,2,Electronics,Electronic Games,Debit Card
+B-26093,113,-57,5,Clothing,Leggings,EMI
+B-25775,70,-24,2,Clothing,Orna,COD
+B-26093,69,7,4,Clothing,Handkerchief,COD
+B-25851,332,66,9,Clothing,T-shirt,Rocket
+B-25685,370,-42,3,Furniture,Furnishings,Debit Card
+B-25651,69,4,1,Clothing,Shirt,COD
+B-25793,88,-34,6,Clothing,Three-Piece,COD
+B-25708,113,-71,7,Clothing,Orna,EMI
+B-25847,370,99,10,Furniture,Furnishings,Debit Card
+B-25954,67,15,2,Clothing,Shirt,COD
+B-25997,67,21,1,Clothing,Handkerchief,COD
+B-25650,343,-109,2,Electronics,Printers,bKash
+B-25883,204,59,5,Clothing,Handkerchief,bKash
+B-25945,343,14,2,Furniture,Bookcases,COD
+B-25981,343,127,2,Furniture,Bookcases,Nagad
+B-25862,112,4,3,Clothing,Orna,EMI
+B-25877,377,46,5,Furniture,Chairs,Debit Card
+B-26090,112,31,3,Clothing,Orna,EMI
+B-26050,398,62,6,Clothing,Handkerchief,COD
+B-26072,438,62,3,Electronics,Electronic Games,COD
+B-25916,112,-36,9,Clothing,Panjabi,EMI
+B-25722,67,-11,8,Clothing,Orna,COD
+B-25746,122,22,2,Clothing,Saree,bKash
+B-25753,66,-160,5,Furniture,Furnishings,COD
+B-25956,196,39,2,Electronics,Phones,COD
+B-25996,66,1,2,Clothing,Orna,COD
+B-25896,111,-3,2,Furniture,Furnishings,EMI
+B-25796,109,-90,7,Clothing,Orna,EMI
+B-25798,66,-4,2,Clothing,Orna,COD
+B-26043,259,67,4,Clothing,Orna,Nagad
+B-26028,108,50,2,Clothing,Shirt,EMI
+B-25812,363,66,5,Clothing,Handkerchief,Nagad
+B-25605,105,0,7,Clothing,Saree,EMI
+B-25702,105,0,3,Clothing,Shirt,EMI
+B-25940,64,0,4,Clothing,Leggings,COD
+B-26087,64,18,3,Clothing,Handkerchief,COD
+B-25955,280,18,5,Electronics,Phones,COD
+B-25626,64,-20,1,Electronics,Phones,COD
+B-25811,176,73,4,Clothing,Handkerchief,Nagad
+B-25856,104,41,3,Clothing,Orna,EMI
+B-25628,63,18,4,Clothing,Panjabi,COD
+B-26016,104,13,3,Clothing,Shirt,Nagad
+B-25999,181,15,2,Electronics,Phones,Nagad
+B-26043,171,70,7,Clothing,Orna,bKash
+B-25743,104,-71,3,Clothing,Orna,bKash
+B-26014,389,55,5,Furniture,Chairs,Debit Card
+B-25876,395,20,4,Clothing,Trousers,Debit Card
+B-25785,63,0,2,Clothing,T-shirt,COD
+B-25810,63,8,3,Clothing,Shirt,COD
+B-25833,63,22,3,Clothing,Orna,COD
+B-25931,102,-50,3,Furniture,Chairs,bKash
+B-25852,63,17,4,Clothing,Handkerchief,COD
+B-25738,101,-8,3,Clothing,Saree,bKash
+B-25921,99,-62,5,Electronics,Accessories,bKash
+B-25685,63,-3,4,Clothing,Shirt,COD
+B-25996,400,196,6,Clothing,Shirt,Debit Card
+B-25663,412,193,2,Electronics,Printers,Debit Card
+B-25888,312,6,3,Electronics,Phones,COD
+B-25677,28,-3,1,Electronics,Accessories,bKash
+B-26045,423,105,6,Furniture,Furnishings,Debit Card
+B-26002,158,39,2,Clothing,Saree,bKash
+B-25953,62,3,3,Clothing,Handkerchief,COD
+B-25617,427,-378,5,Electronics,Electronic Games,Debit Card
+B-25702,428,-206,3,Clothing,Saree,Debit Card
+B-25799,98,-90,5,Clothing,Orna,bKash
+B-25985,62,15,4,Clothing,Orna,COD
+B-25952,62,20,3,Clothing,Handkerchief,COD
+B-25754,447,437,5,Clothing,Saree,Debit Card
+B-25770,402,-392,12,Furniture,Chairs,Nagad
+B-25954,62,14,3,Clothing,Orna,COD
+B-25657,403,-252,4,Furniture,Chairs,COD
+B-25801,69,-43,2,Clothing,Orna,COD
+B-26000,60,-14,4,Clothing,Panjabi,COD
+B-25897,60,7,3,Clothing,Orna,COD
+B-25681,95,-38,3,Electronics,Accessories,bKash
+B-25852,448,202,1,Electronics,Printers,Debit Card
+B-26067,94,3,4,Clothing,T-shirt,bKash
+B-25601,92,-17,5,Clothing,Orna,Rocket
+B-25804,449,36,3,Electronics,Printers,Debit Card
+B-25751,60,-7,2,Clothing,Saree,COD
+B-25630,160,-55,5,Clothing,Three-Piece,COD
+B-25899,60,24,1,Clothing,Saree,COD
+B-25751,60,29,3,Clothing,Shirt,COD
+B-26081,892,70,5,Clothing,Saree,COD
+B-25851,420,59,2,Electronics,Printers,COD
+B-26036,477,62,7,Furniture,Furnishings,bKash
+B-25704,143,0,3,Electronics,Phones,COD
+B-25761,459,-21,3,Electronics,Electronic Games,Debit Card
+B-25978,477,224,7,Clothing,Orna,Debit Card
+B-26077,87,15,7,Clothing,Handkerchief,Nagad
+B-25981,59,18,3,Clothing,Leggings,COD
+B-26043,87,39,5,Clothing,Handkerchief,bKash
+B-25896,59,10,2,Clothing,Three-Piece,COD
+B-25790,59,-4,1,Electronics,Electronic Games,COD
+B-25789,438,-18,5,Furniture,Bookcases,bKash
+B-26061,153,73,2,Clothing,Orna,Nagad
+B-25923,316,81,3,Electronics,Accessories,COD
+B-25868,87,-1,1,Electronics,Phones,Nagad
+B-25777,85,-35,4,Electronics,Accessories,bKash
+B-25999,311,104,5,Clothing,Handkerchief,COD
+B-25854,479,-216,7,Furniture,Furnishings,Debit Card
+B-25667,482,-48,3,Clothing,Saree,Debit Card
+B-25829,483,53,7,Clothing,Handkerchief,Debit Card
+B-25705,64,0,2,Electronics,Electronic Games,COD
+B-25843,357,104,5,Clothing,Handkerchief,COD
+B-25958,504,45,3,Clothing,Saree,bKash
+B-25893,521,83,3,Electronics,Printers,bKash
+B-25855,85,42,2,Clothing,Handkerchief,bKash
+B-25616,59,17,5,Clothing,Handkerchief,COD
+B-25630,59,-36,2,Clothing,Three-Piece,COD
+B-25936,85,35,4,Clothing,Saree,bKash
+B-25830,57,15,6,Clothing,Handkerchief,COD
+B-25930,56,18,3,Clothing,T-shirt,COD
+B-25808,83,29,2,Clothing,Orna,bKash
+B-25979,80,38,2,Clothing,Shirt,Nagad
+B-25687,24,8,1,Clothing,Orna,Nagad
+B-26087,56,14,2,Clothing,Orna,COD
+B-25764,489,-34,2,Clothing,Saree,Debit Card
+B-25782,469,-31,7,Furniture,Chairs,Nagad
+B-25854,56,22,3,Clothing,Handkerchief,COD
+B-26085,56,24,2,Clothing,Orna,COD
+B-25630,56,-10,3,Clothing,Orna,COD
+B-25999,493,104,8,Clothing,Orna,Debit Card
+B-25648,77,-36,4,Clothing,Saree,Nagad
+B-25952,493,25,5,Clothing,Trousers,Debit Card
+B-25710,74,-25,4,Clothing,T-shirt,Rocket
+B-25685,71,10,2,Furniture,Furnishings,Nagad
+B-25740,56,-52,3,Clothing,Orna,COD
+B-25973,55,20,5,Clothing,Leggings,COD
+B-25769,497,-6,2,Clothing,Saree,Debit Card
+B-25687,500,195,2,Clothing,Saree,Debit Card
+B-25603,53,25,1,Clothing,Three-Piece,COD
+B-26050,53,13,2,Clothing,Orna,COD
+B-25748,197,14,4,Clothing,Shirt,bKash
+B-25833,50,6,9,Clothing,Handkerchief,COD
+B-25930,491,-132,5,Electronics,Electronic Games,COD
+B-26035,517,21,3,Electronics,Electronic Games,Debit Card
+B-25851,74,34,6,Clothing,Handkerchief,EMI
+B-25718,519,161,1,Furniture,Bookcases,Debit Card
+B-25898,699,46,4,Clothing,Saree,COD
+B-25893,312,87,7,Clothing,Shirt,COD
+B-25983,70,-6,6,Clothing,T-shirt,EMI
+B-26056,547,126,6,Electronics,Phones,Debit Card
+B-25715,582,192,3,Electronics,Phones,Debit Card
+B-25702,594,-24,9,Furniture,Chairs,Debit Card
+B-25618,507,178,1,Furniture,Bookcases,COD
+B-25643,50,-10,1,Electronics,Electronic Games,COD
+B-25961,48,-14,3,Clothing,Panjabi,COD
+B-25873,514,102,3,Electronics,Electronic Games,bKash
+B-26053,595,291,7,Clothing,Saree,Debit Card
+B-25683,606,36,3,Electronics,Printers,Debit Card
+B-25718,644,43,3,Furniture,Bookcases,Debit Card
+B-25753,87,-78,5,Clothing,Three-Piece,COD
+B-25852,70,22,1,Clothing,Orna,EMI
+B-25914,644,-200,3,Furniture,Chairs,Debit Card
+B-26083,48,4,3,Clothing,Saree,COD
+B-25857,318,83,2,Furniture,Furnishings,bKash
+B-25939,657,46,4,Electronics,Electronic Games,Debit Card
+B-25851,144,64,2,Clothing,Saree,Nagad
+B-25699,48,-18,5,Clothing,Leggings,COD
+B-26078,192,88,3,Clothing,Orna,COD
+B-26075,48,17,2,Clothing,Orna,COD
+B-25956,664,78,4,Electronics,Phones,Debit Card
+B-25861,70,4,2,Clothing,Orna,EMI
+B-25777,97,-94,4,Clothing,Three-Piece,bKash
+B-25634,545,-116,3,Furniture,Chairs,bKash
+B-25753,108,-60,8,Clothing,Orna,COD
+B-25687,71,29,3,Clothing,T-shirt,COD
+B-25885,552,204,2,Furniture,Bookcases,Nagad
+B-25767,67,-31,2,Clothing,Saree,EMI
+B-25961,48,-17,5,Clothing,Leggings,COD
+B-25923,678,39,3,Electronics,Printers,Debit Card
+B-25799,66,-38,4,Clothing,Saree,EMI
+B-25955,63,11,4,Clothing,Panjabi,EMI
+B-26015,179,77,1,Clothing,Saree,COD
+B-26051,937,104,5,Furniture,Bookcases,COD
+B-25822,48,18,2,Clothing,Saree,COD
+B-25989,62,20,3,Clothing,Handkerchief,Credit Card
+B-25910,46,1,2,Clothing,Shirt,COD
+B-25956,46,14,3,Clothing,Handkerchief,COD
+B-25986,682,-32,3,Electronics,Printers,Debit Card
+B-26098,696,251,3,Furniture,Chairs,Debit Card
+B-26061,711,284,2,Electronics,Accessories,Debit Card
+B-25954,734,-35,2,Electronics,Electronic Games,Debit Card
+B-26034,595,256,5,Electronics,Accessories,bKash
+B-25909,235,78,3,Clothing,Saree,COD
+B-25692,197,39,7,Furniture,Furnishings,Nagad
+B-25959,601,24,3,Furniture,Chairs,bKash
+B-25745,62,-11,3,Clothing,Orna,Credit Card
+B-25689,209,190,3,Clothing,Orna,Nagad
+B-25786,62,-48,3,Clothing,Orna,Credit Card
+B-25897,46,14,3,Clothing,Handkerchief,COD
+B-26056,46,13,2,Clothing,Handkerchief,COD
+B-25855,619,43,2,Electronics,Electronic Games,Nagad
+B-25667,57,8,5,Clothing,Panjabi,Credit Card
+B-25701,46,-17,5,Clothing,Handkerchief,COD
+B-26046,45,4,8,Clothing,Handkerchief,COD
+B-25676,45,8,3,Clothing,Shirt,COD
+B-26045,251,108,1,Clothing,Saree,Rocket
+B-25889,43,14,1,Clothing,Three-Piece,COD
+B-25900,196,95,5,Clothing,T-shirt,COD
+B-25685,741,192,3,Electronics,Phones,Debit Card
+B-25622,748,0,3,Clothing,Saree,Debit Card
+B-25709,57,-8,1,Furniture,Chairs,Credit Card
+B-25798,531,88,2,Clothing,Saree,COD
+B-25933,113,-62,3,Clothing,Orna,COD
+B-25793,56,-46,5,Clothing,Handkerchief,Credit Card
+B-25951,56,25,1,Electronics,Accessories,Credit Card
+B-25656,748,0,3,Clothing,Saree,Debit Card
+B-26056,43,13,2,Clothing,Handkerchief,COD
+B-25870,662,-158,9,Clothing,Handkerchief,Nagad
+B-25690,43,-14,3,Clothing,Panjabi,COD
+B-25702,43,-4,4,Clothing,Saree,COD
+B-25752,127,21,6,Clothing,T-shirt,Nagad
+B-25781,42,-35,2,Clothing,T-shirt,COD
+B-26038,42,8,1,Clothing,T-shirt,COD
+B-25761,56,0,3,Clothing,Saree,Credit Card
+B-25751,748,7,2,Electronics,Electronic Games,Debit Card
+B-25750,755,-204,7,Furniture,Furnishings,Debit Card
+B-25726,686,-179,8,Furniture,Bookcases,Nagad
+B-26048,228,113,2,Electronics,Accessories,COD
+B-26051,258,119,6,Clothing,T-shirt,bKash
+B-25614,692,76,4,Furniture,Bookcases,COD
+B-25907,42,15,5,Clothing,Handkerchief,COD
+B-25789,42,0,1,Clothing,Three-Piece,COD
+B-26097,55,-25,2,Clothing,Leggings,Credit Card
+B-25902,2380,119,3,Clothing,Trousers,COD
+B-25657,465,-60,6,Electronics,Phones,Rocket
+B-25854,610,183,9,Clothing,Handkerchief,Nagad
+B-25610,42,-7,2,Furniture,Furnishings,COD
+B-25733,42,-14,2,Clothing,Orna,COD
+B-25798,53,-18,3,Clothing,Orna,Credit Card
+B-25803,715,272,3,Furniture,Chairs,bKash
+B-25755,52,-74,3,Clothing,Saree,Credit Card
+B-25850,718,301,2,Electronics,Accessories,COD
+B-25667,722,97,4,Furniture,Bookcases,bKash
+B-25796,783,-27,2,Clothing,Trousers,Debit Card
+B-26013,41,-14,3,Clothing,Panjabi,COD
+B-25683,207,73,5,Clothing,Orna,Nagad
+B-26054,783,-244,2,Electronics,Electronic Games,Debit Card
+B-26010,738,36,3,Electronics,Electronic Games,COD
+B-25979,784,62,3,Clothing,Saree,Debit Card
+B-25973,799,151,12,Clothing,Orna,Debit Card
+B-25975,41,3,3,Clothing,Panjabi,COD
+B-26010,41,4,2,Clothing,Orna,COD
+B-25767,41,-4,3,Clothing,Saree,COD
+B-25815,49,20,2,Clothing,Orna,Credit Card
+B-25853,811,195,3,Electronics,Printers,Debit Card
+B-25756,41,-34,4,Clothing,Leggings,COD
+B-25755,830,298,4,Furniture,Bookcases,Debit Card
+B-25996,304,101,2,Furniture,Furnishings,COD
+B-25619,494,126,8,Clothing,Saree,COD
+B-26050,535,129,2,Electronics,Printers,COD
+B-26000,836,130,4,Furniture,Chairs,Debit Card
+B-26058,297,136,7,Clothing,Handkerchief,COD
+B-25856,965,126,5,Clothing,Saree,COD
+B-26044,39,-14,3,Clothing,Panjabi,COD
+B-25654,48,17,3,Clothing,Handkerchief,Credit Card
+B-26051,840,-143,5,Electronics,Electronic Games,Debit Card
+B-25636,892,158,5,Clothing,Saree,bKash
+B-25710,862,-97,7,Furniture,Furnishings,Debit Card
+B-25656,874,52,2,Electronics,Electronic Games,Debit Card
+B-25919,39,6,1,Clothing,T-shirt,COD
+B-25781,818,-622,7,Electronics,Printers,bKash
+B-25899,39,8,4,Clothing,Panjabi,COD
+B-26093,46,-1,1,Clothing,Saree,Credit Card
+B-25753,38,-28,2,Clothing,Handkerchief,COD
+B-25858,38,7,2,Clothing,Panjabi,COD
+B-25762,38,6,3,Clothing,Panjabi,COD
+B-25625,889,-489,5,Clothing,Saree,Debit Card
+B-25857,837,232,4,Furniture,Bookcases,bKash
+B-25919,890,-286,2,Electronics,Printers,Debit Card
+B-25864,38,13,2,Clothing,Handkerchief,COD
+B-25698,38,-8,4,Clothing,Handkerchief,COD
+B-25959,892,297,8,Electronics,Phones,Debit Card
+B-26073,406,154,9,Clothing,Orna,Nagad
+B-25649,38,-35,2,Clothing,Orna,COD
+B-25806,885,-160,4,Furniture,Tables,bKash
+B-25756,900,-63,2,Electronics,Printers,Debit Card
+B-26003,913,18,6,Furniture,Furnishings,Debit Card
+B-25752,46,-38,1,Furniture,Chairs,Credit Card
+B-25783,36,3,2,Clothing,Handkerchief,COD
+B-25802,886,-886,11,Electronics,Accessories,bKash
+B-25881,36,13,2,Clothing,Leggings,COD
+B-25898,267,130,4,Clothing,Shirt,bKash
+B-25696,1242,112,3,Electronics,Printers,Nagad
+B-25826,892,365,2,Electronics,Printers,COD
+B-25745,938,21,5,Furniture,Bookcases,Debit Card
+B-25943,36,10,4,Clothing,Handkerchief,COD
+B-26051,946,273,5,Furniture,Bookcases,Debit Card
+B-25624,36,17,3,Clothing,Handkerchief,COD
+B-25723,36,-34,1,Clothing,Orna,COD
+B-26052,35,10,2,Clothing,Orna,COD
+B-25603,34,-42,1,Furniture,Chairs,COD
+B-25983,45,-17,1,Furniture,Chairs,Credit Card
+B-25650,43,-3,2,Clothing,Saree,Credit Card
+B-25656,911,237,5,Electronics,Printers,COD
+B-26018,456,150,3,Furniture,Furnishings,bKash
+B-25783,42,-8,2,Clothing,Handkerchief,Nagad
+B-25951,42,7,2,Clothing,Three-Piece,bKash
+B-25974,927,336,2,Furniture,Bookcases,COD
+B-25754,42,-32,2,Clothing,Saree,bKash
+B-26073,41,13,3,Clothing,Saree,bKash
+B-25796,39,1,1,Electronics,Accessories,bKash
+B-25653,39,-4,2,Clothing,Saree,Nagad
+B-25884,34,3,4,Clothing,Handkerchief,COD
+B-25650,39,-36,2,Clothing,Orna,Nagad
+B-26045,38,7,1,Clothing,Orna,bKash
+B-25672,38,-21,1,Clothing,Orna,bKash
+B-25949,34,15,3,Clothing,Handkerchief,COD
+B-25733,32,-8,4,Clothing,Handkerchief,COD
+B-25697,451,270,5,Electronics,Printers,COD
+B-25893,963,-144,6,Electronics,Accessories,Debit Card
+B-25802,32,-4,1,Clothing,Shirt,COD
+B-25961,36,4,3,Clothing,Panjabi,bKash
+B-25751,95,-78,2,Electronics,Phones,COD
+B-25814,647,237,4,Clothing,Saree,COD
+B-25702,1317,284,3,Furniture,Tables,bKash
+B-25896,32,6,2,Clothing,Panjabi,COD
+B-25969,1008,60,2,Electronics,Printers,Nagad
+B-25778,1014,-626,4,Electronics,Electronic Games,Nagad
+B-25859,1014,354,2,Furniture,Bookcases,bKash
+B-25810,36,14,4,Clothing,Handkerchief,Nagad
+B-25616,31,-3,3,Clothing,Handkerchief,COD
+B-25633,995,-11,4,Clothing,Saree,Debit Card
+B-25753,150,43,5,Clothing,T-shirt,COD
+B-25764,1071,-214,2,Electronics,Phones,Debit Card
+B-25864,31,11,2,Clothing,Leggings,COD
+B-25725,36,-7,2,Clothing,Orna,bKash
+B-25858,31,11,3,Clothing,Handkerchief,COD
+B-25817,1040,125,5,Electronics,Printers,bKash
+B-25703,31,-21,4,Clothing,Three-Piece,COD
+B-25610,1093,832,6,Electronics,Printers,Debit Card
+B-25652,35,-3,5,Clothing,Handkerchief,bKash
+B-25891,35,3,2,Clothing,Handkerchief,Nagad
+B-25764,167,60,5,Clothing,T-shirt,COD
+B-25664,1099,73,2,Electronics,Phones,Debit Card
+B-25645,256,-92,5,Electronics,Phones,bKash
+B-26008,31,6,1,Clothing,Orna,COD
+B-26061,899,252,5,Clothing,Saree,COD
+B-25781,1074,-494,5,Clothing,Trousers,COD
+B-25999,1078,452,3,Electronics,Accessories,COD
+B-25783,29,-24,3,Clothing,Shirt,COD
+B-25800,29,-8,3,Clothing,Leggings,COD
+B-26093,689,262,2,Electronics,Accessories,bKash
+B-25638,1142,-134,3,Electronics,Printers,Debit Card
+B-26026,35,3,3,Clothing,Three-Piece,Credit Card
+B-25902,1123,168,7,Electronics,Accessories,COD
+B-25968,1135,216,7,Electronics,Accessories,bKash
+B-26099,1169,374,5,Electronics,Phones,Debit Card
+B-25699,29,-7,1,Electronics,Accessories,COD
+B-26076,630,-266,4,Furniture,Bookcases,COD
+B-25793,34,-1,4,Clothing,Panjabi,Credit Card
+B-25671,1165,0,3,Clothing,Trousers,Nagad
+B-26040,1166,130,3,Clothing,Trousers,bKash
+B-26059,28,8,1,Clothing,T-shirt,COD
+B-25725,32,-7,7,Clothing,Handkerchief,Credit Card
+B-25855,770,-339,5,Furniture,Furnishings,Nagad
+B-25738,207,-127,2,Electronics,Phones,COD
+B-25899,1184,13,2,Furniture,Chairs,Debit Card
+B-25608,1198,539,6,Electronics,Printers,COD
+B-25904,1219,183,2,Furniture,Bookcases,bKash
+B-26056,27,-25,4,Clothing,Three-Piece,COD
+B-25669,854,-92,2,Furniture,Tables,COD
+B-25638,1232,136,8,Furniture,Furnishings,Debit Card
+B-25953,31,-11,4,Clothing,Handkerchief,Credit Card
+B-25841,31,15,2,Clothing,Panjabi,Credit Card
+B-26071,29,6,3,Clothing,Handkerchief,Credit Card
+B-25793,25,1,3,Clothing,Handkerchief,COD
+B-25813,1275,283,7,Furniture,Chairs,COD
+B-26010,25,3,3,Clothing,Handkerchief,COD
+B-25825,1275,497,5,Electronics,Phones,Debit Card
+B-25630,200,-181,2,Electronics,Phones,COD
+B-25986,1285,31,9,Electronics,Electronic Games,COD
+B-25650,1295,-626,5,Electronics,Electronic Games,COD
+B-26078,24,11,2,Clothing,Panjabi,COD
+B-25890,651,290,9,Clothing,Saree,COD
+B-25691,24,-13,3,Clothing,Orna,COD
+B-25952,1309,160,4,Electronics,Electronic Games,bKash
+B-25651,22,-14,2,Clothing,T-shirt,COD
+B-25955,1336,133,3,Electronics,Printers,bKash
+B-25898,1281,-139,3,Furniture,Tables,Debit Card
+B-25838,1337,427,3,Electronics,Printers,Debit Card
+B-25797,1366,410,4,Electronics,Accessories,COD
+B-25738,1497,0,6,Clothing,Saree,EMI
+B-25661,27,-21,3,Clothing,Handkerchief,Credit Card
+B-25997,22,8,3,Clothing,Handkerchief,COD
+B-25667,1442,288,8,Electronics,Printers,bKash
+B-25753,868,115,6,Electronics,Accessories,COD
+B-25848,22,11,2,Clothing,Handkerchief,COD
+B-26097,27,11,2,Clothing,Handkerchief,Credit Card
+B-25633,349,-182,4,Electronics,Phones,bKash
+B-25807,22,8,1,Clothing,Orna,COD
+B-25752,1905,276,9,Furniture,Bookcases,COD
+B-26052,21,1,1,Clothing,Shirt,COD
+B-25610,1506,-53,4,Electronics,Printers,COD
+B-25888,25,3,3,Clothing,Handkerchief,Credit Card
+B-25937,1541,493,3,Furniture,Bookcases,bKash
+B-25828,21,3,1,Clothing,Leggings,COD
+B-26048,1546,293,4,Clothing,Trousers,bKash
+B-25670,20,3,1,Clothing,Handkerchief,COD
+B-25757,20,7,1,Clothing,Handkerchief,COD
+B-25751,20,-4,2,Clothing,Leggings,COD
+B-25687,20,-1,4,Clothing,Three-Piece,COD
+B-25710,18,-11,1,Clothing,T-shirt,COD
+B-25656,18,-1,3,Clothing,Handkerchief,COD
+B-25601,1785,1607,7,Furniture,Bookcases,EMI
+B-26053,24,1,2,Clothing,Panjabi,Credit Card
+B-26001,18,0,2,Clothing,Handkerchief,COD
+B-25964,1778,764,11,Electronics,Electronic Games,EMI
+B-26062,18,-3,1,Clothing,Orna,COD
+B-25982,18,4,1,Clothing,Leggings,COD
+B-25864,24,7,1,Clothing,Handkerchief,bKash
+B-25693,18,-18,2,Clothing,Panjabi,COD
+B-25802,18,-13,2,Clothing,Panjabi,COD
+B-25676,1768,-78,5,Clothing,Trousers,EMI
+B-25639,2281,-214,3,Electronics,Phones,COD
+B-25757,24,10,3,Clothing,Handkerchief,bKash
+B-26003,24,3,2,Clothing,Panjabi,bKash
+B-26055,1750,-17,2,Electronics,Printers,EMI
+B-25786,24,-15,3,Clothing,Panjabi,Nagad
+B-25919,1368,-342,7,Electronics,Phones,COD
+B-25894,1744,87,3,Furniture,Bookcases,EMI
+B-25979,17,1,2,Clothing,Handkerchief,COD
+B-25651,15,-6,2,Clothing,Panjabi,COD
+B-25653,1858,445,8,Furniture,Chairs,EMI
+B-25855,1847,794,5,Electronics,Printers,COD
+B-25793,1963,153,11,Clothing,Saree,EMI
+B-26073,2120,1039,4,Electronics,Printers,EMI
+B-25881,1891,155,6,Electronics,Electronic Games,COD
+B-25603,1897,-84,5,Clothing,Trousers,COD
+B-25851,14,3,2,Clothing,Handkerchief,COD
+B-25883,14,-3,2,Clothing,Leggings,COD
+B-25768,2215,-620,6,Clothing,Trousers,EMI
+B-25953,1705,493,9,Furniture,Bookcases,EMI
+B-25755,449,441,5,Clothing,Saree,bKash
+B-26057,1030,484,5,Electronics,Printers,COD
+B-26055,1705,-588,8,Furniture,Bookcases,COD
+B-25855,1438,617,8,Clothing,Saree,COD
+B-25989,14,7,1,Clothing,Orna,COD
+B-26099,3312,773,5,Clothing,Trousers,bKash
+B-25652,13,-8,2,Clothing,Handkerchief,COD
+B-25723,22,-17,2,Clothing,Orna,Nagad
+B-26099,13,4,1,Clothing,Panjabi,COD
+B-25629,2184,589,3,Clothing,Trousers,COD
+B-25877,1592,795,2,Clothing,Trousers,EMI
+B-25767,13,-13,2,Clothing,Three-Piece,COD
+B-25735,21,-10,1,Clothing,Handkerchief,bKash
+B-26097,20,7,1,Clothing,Handkerchief,Nagad
+B-26070,20,10,2,Clothing,Handkerchief,Nagad
+B-25752,11,-3,2,Clothing,Handkerchief,COD
+B-25656,1945,952,7,Clothing,Saree,COD
+B-25748,11,-1,2,Clothing,Leggings,COD
+B-25758,11,-3,1,Clothing,Orna,COD
+B-25950,18,6,1,Clothing,Leggings,bKash
+B-25707,11,-8,1,Clothing,Orna,COD
+B-25909,17,3,2,Clothing,Panjabi,Credit Card
+B-25955,2402,433,7,Electronics,Accessories,COD
+B-26023,1564,626,10,Furniture,Bookcases,EMI
+B-25655,13,-8,2,Clothing,Panjabi,Credit Card
+B-25686,465,704,3,Electronics,Printers,COD
+B-25655,10,-6,3,Clothing,Handkerchief,COD
+B-25601,11,-3,3,Clothing,Handkerchief,Credit Card
+B-25862,2885,981,5,Furniture,Bookcases,Nagad
+B-25626,1544,386,3,Furniture,Chairs,EMI
+B-25823,2944,451,8,Electronics,Electronic Games,bKash
+B-25881,2961,32,5,Furniture,Chairs,COD
+B-25910,1190,-405,5,Electronics,Electronic Games,COD
+B-25830,1488,90,7,Electronics,Phones,EMI
+B-25978,1488,-245,4,Electronics,Electronic Games,EMI
+B-25997,3209,178,7,Furniture,Bookcases,COD
+B-25661,10,-1,2,Clothing,Handkerchief,Credit Card
+B-25969,3433,267,7,Furniture,Bookcases,bKash
+B-25858,3440,931,11,Electronics,Electronic Games,EMI
+B-25697,6,-4,1,Clothing,Panjabi,Credit Card
+B-25798,3962,-2773,13,Furniture,Bookcases,EMI
+B-25873,10,1,1,Clothing,Handkerchief,COD
+B-25740,10,0,2,Clothing,Panjabi,COD
+B-25700,10,-4,2,Clothing,Handkerchief,COD
+B-25757,4411,-49,7,Clothing,Trousers,EMI
+B-25973,5797,2377,13,Electronics,Printers,COD
+B-25698,10,-3,1,Clothing,Handkerchief,COD
+B-25993,6108,427,5,Furniture,Tables,EMI
