@@ -2,6 +2,7 @@
 
 A four-page Power BI dashboard that analyses one year (2025) of online store orders from all eight divisions of Bangladesh. It shows what sells, what makes a profit, who buys, where they live, and how they pay.
 
+![Executive Overview](Executive%20Overview%20.png)
 
 ## Tools Used
 
@@ -11,7 +12,7 @@ A four-page Power BI dashboard that analyses one year (2025) of online store ord
 
 ## Dataset
 
-Two CSV files linked by **Order ID** (one-to-many)
+Two CSV files linked by **Order ID** (one-to-many).
 
 The data covers 500 orders, 336 customers, 3 categories (Electronics, Furniture, Clothing) and 7 payment modes.
 
@@ -44,11 +45,31 @@ The data covers 500 orders, 336 customers, 3 categories (Electronics, Furniture,
 - Four pages with synced slicers for Date, Division, Category and Payment Mode
 
 ## Dashboard Pages
-1) **Executive Overview** Sales Peaked in January and Dipped in June–July · Cash on Delivery Brings in the Most Sales · Electronics Leads Sales, with Clothing Close Behind · Dhaka and Chattogram Drive Over Half of Sales |
-2) **Product Performance** Printers Earn the Most Profit of Any Sub-Category · High Sales Don't Always Mean High Profit · Five Sub-Categories Are Losing Money |
-3) **Customers and Geography** Our Top 5 Customers by Sales · Only 1 in 3 Customers Buys Again · Dhaka and Chattogram Cities Lead Sales |
-4) **Payment Analysis** How Each Division Pays: COD Leads · EMI Customers Spend the Most per Order · COD Makes Up Over a Third of Sales · Credit Card Earns as Much Profit as COD |
 
+### 1. Executive Overview
+- Sales Peaked in January and Dipped in June–July
+- Cash on Delivery Brings in the Most Sales
+- Electronics Leads Sales, with Clothing Close Behind
+- Dhaka and Chattogram Drive Over Half of Sales
+
+### 2. Product Performance
+![Product Performance](Product%20Performance%20.png)
+- Printers Earn the Most Profit of Any Sub-Category
+- High Sales Don't Always Mean High Profit
+- Five Sub-Categories Are Losing Money
+
+### 3. Customers and Geography
+![Customers and Geography](Customers%20and%20Geography.png)
+- Our Top 5 Customers by Sales
+- Only 1 in 3 Customers Buys Again
+- Dhaka and Chattogram Cities Lead Sales
+
+### 4. Payment Analysis
+![Payment Analysis](Payment%20Analysis%20.png)
+- How Each Division Pays: COD Leads
+- EMI Customers Spend the Most per Order
+- COD Makes Up Over a Third of Sales
+- Credit Card Earns as Much Profit as COD
 
 ## Key Insights
 
@@ -65,7 +86,7 @@ The data covers 500 orders, 336 customers, 3 categories (Electronics, Furniture,
 
 - Only one year of data, so no year-over-year comparison
 - No product names, customer IDs, discounts, shipping costs or returns
-- Payment mode is recorded per product line, so one order can have several payment methods.
+- Payment mode is recorded per product line, so one order can have several payment methods
 
 ## How to Use
 
@@ -75,5 +96,5 @@ The data covers 500 orders, 336 customers, 3 categories (Electronics, Furniture,
 
 ## Author
 
-Sadman Shakib Dipto 
-[LinkedIn] (https://www.linkedin.com/in/sadmanshakibdipto/) · [Email](sadipto21@gmail.com)
+**Sadman Shakib Dipto**
+[LinkedIn](https://www.linkedin.com/in/sadmanshakibdipto/) · [Email](mailto:sadipto21@gmail.com)
